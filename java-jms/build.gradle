@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'com.example.jdbc.JmsSender'
+
+dependencies {
+    // https://mvnrepository.com/artifact/javax.jms/javax.jms-api
+    compile group: 'javax.jms', name: 'javax.jms-api', version: '2.0.1'
+
+    // https://mvnrepository.com/artifact/org.apache.activemq/activemq-core
+    compile group: 'org.apache.activemq', name: 'activemq-core', version: '5.7.0'
+}
