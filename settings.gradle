@@ -1,2 +1,2 @@
-rootProject.name = 'java-spring-boot-samples'
-include 'java', 'spring'
+include 'java-jdbc'
+include 'spring-rest-logging'
