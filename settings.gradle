@@ -1,3 +1,4 @@
 include 'java-jdbc'
 include 'java-jms'
 include 'spring-rest-logging'
+include 'spring-jms'
