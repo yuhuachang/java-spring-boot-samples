@@ -19,8 +19,9 @@ Spring Boot demo of JdbcTemplate and PostgreSQL. (need a local PostgreSQL broker
 Spring Boot sample of MyBatis. (need a local PostgreSQL broker for testing)
 
 ## spring-jms
-Spring Boot sample of JmsTemplate and @JmsListener. (need a local ActiveMQ broker for testing)
+Spring Boot sample of JmsTemplate and @JmsListener with ActiveMQ. (need a local ActiveMQ broker for testing)
 
 ## spring-jms-aws
+Spring Boot sample of JmsTemplate and @JmsListener with AWS SQS+S3. (need to create AWS S3 bucket and SQS queue first)
 
 ## spring-tx-bitronix
