@@ -7,6 +7,8 @@ Simple select with pure JDBC and PostgreSQL. (need a local PostgreSQL broker for
 ## java-jms
 Sample sender and receiver using JMS and ActiveMQ. (need a local ActiveMQ broker for testing)
 
+## java-encoding
+
 ## spring-rest-logging
 Spring Boot app that will print all REST api request and response.
 
@@ -14,6 +16,7 @@ Spring Boot app that will print all REST api request and response.
 Spring Boot demo of JdbcTemplate and PostgreSQL. (need a local PostgreSQL broker for testing)
 
 ## spring-mybatis
+Spring Boot sample of MyBatis. (need a local PostgreSQL broker for testing)
 
 ## spring-jms
 Spring Boot sample of JmsTemplate and @JmsListener. (need a local ActiveMQ broker for testing)
